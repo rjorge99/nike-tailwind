@@ -12,7 +12,7 @@ import {
 
 const App = () => {
     return (
-        <main className='relative'>
+        <main className='relative max-w-7xl mx-auto'>
             <Nav />
             <section className='padding-b xl:padding-l wide:padding-r padding-b'>
                 <Hero />
